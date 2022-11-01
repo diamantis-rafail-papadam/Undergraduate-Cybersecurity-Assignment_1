@@ -1,1 +1,0 @@
-./dh_assign_1 -o output1.txt -p 23 -g 10 -a 15 -b 2
