@@ -4,5 +4,5 @@ This is an assignment I completed as an undergraduate student.
 
 In the ".zip" file you will find my implementation of 2 cryptographic algorithms in C.
 
-1) Diffie–Hellman key exchange (https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
-2) RSA (Rivest-Shamir-Adleman) (https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+1) <a href="https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange" target="_blank">Diffie–Hellman key exchange</a>
+2) <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank">RSA (Rivest-Shamir-Adleman)</a>
